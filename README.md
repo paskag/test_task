@@ -18,7 +18,7 @@
 #### We would like to get an answer to the following question: Has the change in the underwriting ﬂow on the ally side achieved the purpose of shortening the time to ﬁll in the test results form?
 
 | Table         |       Field        | Description                          |
-| ------------- |:------------------:| -----:                               |
+| ------------- |:------------------:| -----                                |
 | Applicant     | applicant_id       | Unique identiﬁer of the applicant    |
 |               | session_id         | Unique identiﬁer of the session                                 |
 |               | ﬁrst_name          | Applicant’s ﬁrst name                              |
@@ -27,12 +27,10 @@
 |               | ally_name          | Name of ally who conducted the session                                   |
 |               | birth_date         | Applicant’s gender: F, M, Other                                  |
 |               | gender             | Applicant’s date of birth                                    |
-| ------------- | -------------      | -------------                                    |
 | Session       | session_id         | Unique identiﬁer of the session                                    |
 |               | applicant_id       | Unique identiﬁer of the applicant                                  |
 |               | session_status     | Status of the session                                  |
 |               | risk_class_decision_datetime | Timestamp of when the notiﬁcation about the applicant’s risk class was sent to the agent |
-| ------------- | -------------      | -------------                                    |
 | Events        | session_id         | Unique identiﬁer of the session    |
 |               | applicant_id       | Unique identiﬁer of the applicant                               |
 |               | event_type         | Type of event                            |
