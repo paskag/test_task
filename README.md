@@ -14,9 +14,6 @@
 
 4. Data dictionary - list of ﬁelds in each table and their description
 
-## Goal
-#### We would like to get an answer to the following question: Has the change in the underwriting ﬂow on the ally side achieved the purpose of shortening the time to ﬁll in the test results form?
-
 | Table         |       Field        | Description                          |
 | ------------- |:------------------:| -----                                |
 | Applicant     | applicant_id       | Unique identiﬁer of the applicant    |
@@ -37,3 +34,5 @@
 |               | event_user         | What side triggered the event                                 |
 |               | event_datetime     | Timestamp of the event                                |
 
+## Goal
+#### We would like to get an answer to the following question: Has the change in the underwriting ﬂow on the ally side achieved the purpose of shortening the time to ﬁll in the test results form?
