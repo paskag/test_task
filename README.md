@@ -38,4 +38,5 @@
 #### We would like to get an answer to the following question: Has the change in the underwriting ﬂow on the ally side achieved the purpose of shortening the time to ﬁll in the test results form?
 
 ## Results
-#### The results of my analysis can be viewed in this [presenetation file](presentation.ipynb)
+#### The results of my analysis can be viewed in this [presenetation file](presentation.ipynb).
+#### The code of exploratory data analysis itself can be viewed [here](test_task.py).
